@@ -21,7 +21,9 @@ Durante o processo, pratiquei:
 Curso base: [Power BI Na Prática - YouTube](https://www.youtube.com/@powerbinapratica)
 
 
-Se você tiver sugestões ou quiser colaborar com melhorias no projeto, sinta-se à vontade!
-<img width="1408" height="794" alt="projetoBI" src="https://github.com/user-attachments/assets/fe3bc04c-89bb-4d7d-b9ff-377a1281688d" />
-![Uploading projetoBI2.PNG…]()
 
+
+<img width="1408" height="794" alt="projetoBI" src="https://github.com/user-attachments/assets/fe3bc04c-89bb-4d7d-b9ff-377a1281688d" />
+
+
+<img width="1409" height="794" alt="projetoBI2" src="https://github.com/user-attachments/assets/e67cf120-5a0b-4b29-a951-3bc3acfd7912" />
