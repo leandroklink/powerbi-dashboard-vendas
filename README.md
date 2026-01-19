@@ -26,4 +26,5 @@ Curso base: [Power BI Na Prática - YouTube](https://www.youtube.com/@powerbinap
 <img width="1408" height="794" alt="projetoBI" src="https://github.com/user-attachments/assets/fe3bc04c-89bb-4d7d-b9ff-377a1281688d" />
 
 
+
 <img width="1409" height="794" alt="projetoBI2" src="https://github.com/user-attachments/assets/e67cf120-5a0b-4b29-a951-3bc3acfd7912" />
